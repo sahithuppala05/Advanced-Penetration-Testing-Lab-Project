@@ -1,4 +1,4 @@
-# Metasploitable 2 (192.168.11.129) Penetration Test
+# Advanced Penetration Testing Lab
 
 ## Testing Phases
 1. **Reconnaissance**

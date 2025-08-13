@@ -19,5 +19,4 @@
   - Screenshots: Visual proof
   - Raw output files: Full terminal results
 
-## Legal Disclaimer
-This content is for educational purposes only.
+

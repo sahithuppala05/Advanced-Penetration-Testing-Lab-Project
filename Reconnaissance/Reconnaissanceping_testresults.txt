@@ -1,0 +1,5 @@
+PING 192.168.11.129 (192.168.11.129) 56(84) bytes of data.
+64 bytes from 192.168.11.129: icmp_seq=1 ttl=64 time=0.452 ms
+64 bytes from 192.168.11.129: icmp_seq=2 ttl=64 time=0.381 ms
+--- 192.168.11.129 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss

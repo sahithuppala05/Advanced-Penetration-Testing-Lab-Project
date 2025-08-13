@@ -1,0 +1,3 @@
+available databases [2]:
+[*] dvwa
+[*] information_schema
